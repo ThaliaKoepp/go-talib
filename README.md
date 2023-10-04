@@ -1,10 +1,10 @@
-# go-talib
+* go-talib
 
 [![GoDoc](http://godoc.org/github.com/markcheno/go-talib?status.svg)](http://godoc.org/github.com/markcheno/go-talib) 
 
 A pure [Go](http://golang.org/) port of [TA-Lib](http://ta-lib.org)
 
-## Install
+!# Install
 
 Install the package with:
 
@@ -47,3 +47,4 @@ MIT License  - see LICENSE for more details
 
 - [Markcheno](https://github.com/markcheno) 
 - [Alessandro Sanino AKA saniales](https://github.com/saniales)
+ 
